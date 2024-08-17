@@ -7,8 +7,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"johnpapa.angular-essentials",
-				"lucono.karma-test-explorer"
+				"johnpapa.angular-essentials"
 			]
 		}
 	}
